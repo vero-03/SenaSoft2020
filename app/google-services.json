@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782621532037",
+    "firebase_url": "https://senasoft2020-ca237.firebaseio.com",
+    "project_id": "senasoft2020-ca237",
+    "storage_bucket": "senasoft2020-ca237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782621532037:android:37181d1bc4f6cc1a76aeec",
+        "android_client_info": {
+          "package_name": "com.example.loginseguro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782621532037-s17hlamq2gvb1clbq9cko1pc59tr1rie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJURyNnFvFWoO1dZCG8sILhmoOIUMjs8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782621532037-s17hlamq2gvb1clbq9cko1pc59tr1rie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
